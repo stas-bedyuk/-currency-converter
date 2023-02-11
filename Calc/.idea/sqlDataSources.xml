@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="343ad07c-02ef-4feb-b3c3-7c5f8f2b59c3" name="EnglishWordsDatabase@DESKTOP-UUPP9C7\SQLEXPRESS">
+      <data-sources db="4c76af3e-e669-403b-81af-05e2f24c74c4" ddl="784a760a-abaa-48fe-b754-be6c8832fda2" />
+      <scope>
+        <node kind="database" negative="1">
+          <node kind="schema" negative="1" />
+        </node>
+      </scope>
+    </mapping>
+    <mapping uuid="644b0cbe-b4e7-4095-89f0-4b648246cc96" name="Microsoft SQL Server Mapping">
+      <data-sources db="fffe4827-5789-4e10-af74-9e81d5d73651" ddl="07b4cea7-192f-4c6d-b386-0e0bf4b9022b" />
+    </mapping>
+  </component>
+</project>
